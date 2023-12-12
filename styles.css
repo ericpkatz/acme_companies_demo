@@ -1,0 +1,9 @@
+body {
+  font-family: Verdana;
+}
+
+.spanCount {
+  background-color: dodgerBlue;
+  color: white;
+  border-radius: 3px;
+}
